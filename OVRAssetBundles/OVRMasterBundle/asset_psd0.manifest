@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4046966824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19ccab00ad76d08b519355ecf54b8de4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Textures/Grass_Sprite_01.psd
+Dependencies: []

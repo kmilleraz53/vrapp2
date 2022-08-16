@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2313625838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92b4ea41138ead978768c9f6b29254a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b5be9f64dab86463449db8db6aa22d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/chilijoe.fbx
+- Assets/Models/common_table_and _chair.fbx
+- Assets/Models/twee.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+- Assets/Models/cabin.fbx
+- Assets/Models/5fe5ad5feeca484fa42cc2a9244dddc8.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
+- Assets/Models/Fire Pit.fbx
+- Assets/Models/CookingPot.fbx
+- Assets/Models/wagon.fbx
+Dependencies:
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_jpeg0
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_png0

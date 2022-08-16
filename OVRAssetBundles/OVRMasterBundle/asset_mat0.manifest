@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1996783958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec1380c56c5d228717d8160618c8290e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/New Material.mat
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Terrains/Terrain_A.mat
+- Assets/Mats/Hat.mat
+- Assets/Materials/leaftree.mat
+- Assets/Materials/common_forniture_tableWooden_BaseColor.mat
+- Assets/Materials/diffuse.tga.mat
+Dependencies:
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_png0

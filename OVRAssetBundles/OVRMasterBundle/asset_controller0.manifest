@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4136835144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: def0d53ce83163012a0cdd70da53eec4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/OurLeftHand.controller
+- Assets/Prefabs/OurRightHand.controller
+Dependencies:
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_anim0

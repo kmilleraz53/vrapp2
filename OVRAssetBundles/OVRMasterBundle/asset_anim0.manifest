@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1376028815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8eee7893f5b095fc94bc66462d28821b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/HandMidFist_r_.anim
+- Assets/Prefabs/HandPinch_r_.anim
+- Assets/Prefabs/HandCap_r_.anim
+- Assets/Prefabs/HandMidFist_l_.anim
+- Assets/Prefabs/HandPinch_l_.anim
+- Assets/Prefabs/HandFist_l_.anim
+- Assets/Prefabs/HandFist_r_.anim
+- Assets/Prefabs/HandCap_l_.anim
+Dependencies: []

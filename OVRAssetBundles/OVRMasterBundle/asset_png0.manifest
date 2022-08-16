@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 969108860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93d5cf513ca5a21a44fcdf71a570fbad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/lighting2/Lightmap-4_comp_dir.png
+- Assets/Scenes/lighting2/Lightmap-7_comp_dir.png
+- Assets/Textures/leaftree.png
+- Assets/Textures/Chilipantsfur.png
+- Assets/Scenes/lighting2/Lightmap-10_comp_dir.png
+- Assets/Scenes/lighting2/Lightmap-2_comp_dir.png
+- Assets/Textures/common_forniture_chair_Normal.png
+- Assets/Textures/common_forniture_tableWooden_BaseColor.png
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Textures/Ao_4K_Flat_A.png
+- Assets/Textures/Hut_normal.png
+- Assets/Textures/Fabric_normal.png
+- Assets/Textures/common_forniture_chair_Roughness.png
+- Assets/Textures/tree mesh 1.png
+- Assets/Textures/common_forniture_chair_Metallic.png
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Textures/Diffuse_8K_Flat_C.png
+- Assets/Scenes/lighting2/Lightmap-3_comp_dir.png
+- Assets/Scenes/lighting2/Lightmap-9_comp_dir.png
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Textures/Diffuse_8K_Flat_A.png
+- Assets/Scenes/lighting2/Lightmap-1_comp_dir.png
+- Assets/Scenes/lighting2/Lightmap-5_comp_dir.png
+- Assets/Textures/diffuse.tga.png
+- Assets/Scenes/lighting2/Lightmap-6_comp_dir.png
+- Assets/Scenes/lighting2/Lightmap-0_comp_dir.png
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Textures/Detail_Bump_01.png
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Textures/Normal_8K_Flat_A.png
+- Assets/Scenes/lighting2/Lightmap-8_comp_dir.png
+Dependencies: []

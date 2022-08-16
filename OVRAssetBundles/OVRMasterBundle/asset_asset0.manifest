@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1427934490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b3bceec98249f8ebf3419d113e850fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f5eaa89ca93ab3cbed156122716f1cbd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Terrains/Terrain_A.asset
+Dependencies:
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0

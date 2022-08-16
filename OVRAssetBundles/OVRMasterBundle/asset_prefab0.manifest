@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2386779533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c36f20909324dd45af93b4d742812d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 706d90ae2d132710f931e1bc6120d274
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 674a40251fe8ad841b18517ac5209957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb7623a8f0b49cf4dbaa40aea4d4be64, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/OurLeftHandPrefab.prefab
+- Assets/Prefabs/OurRightHandRPrefab.prefab
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Terrains/Terrain_A.prefab
+Dependencies:
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_mat0

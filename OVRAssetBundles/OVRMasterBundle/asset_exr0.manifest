@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2629723612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fdeff919f90beac606f9b0a83479db7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6e651bdddca608c77d51fff2e12d033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/lighting2/ReflectionProbe-0.exr
+- Assets/Scenes/lighting2/Lightmap-4_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-7_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-1_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-3_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-0_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-6_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-9_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-2_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-5_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-8_comp_light.exr
+- Assets/Scenes/lighting2/Lightmap-10_comp_light.exr
+Dependencies: []

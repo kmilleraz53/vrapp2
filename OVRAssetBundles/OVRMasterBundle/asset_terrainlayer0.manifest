@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3383889959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 257053d59e7a5d11310c0086f5885892
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b1b996afefcdb43727f3042384e65d2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/_Bad_Raccoon/_3D Realistic Terrain Free/Terrains/Terrain_Diffuse.terrainlayer
+Dependencies:
+- C:/Users/kleem/vrapp/OVRAssetBundles/OVRMasterBundle/asset_png0
